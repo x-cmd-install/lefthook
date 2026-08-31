@@ -1,0 +1,64 @@
+about:
+  description: Fast and powerful Git hooks manager for any type of projects.
+  license: MIT
+  homepage: http://lefthook.dev/
+  head: 4ad40c3
+  archived: false
+  latestVersion: v2.1.12
+  collectedAt: 2026-08-31T05:23:21Z
+timeline:
+  created: 2019-02-05
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 8745
+  watcher: 30
+  fork: 298
+  release: 221
+  contributor: 192
+  pullRequest: 72
+  issue: 521
+language:
+  Go: 396475
+  JavaScript: 21850
+  Raku: 18619
+  Shell: 5734
+  Python: 5708
+  Ruby: 2150
+  Makefile: 2135
+  Go Template: 862
+  CSS: 357
+totalLine: 453890
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 2
+    mergedPR: 14
+    openPR: 7
+    closedIssue: 4
+    openIssue: 6
+    commit: 10
+  last90d:
+    since: 2026-06-02
+    release: 3
+    mergedPR: 35
+    openPR: 11
+    closedIssue: 7
+    openIssue: 16
+    commit: 25
+  last180d:
+    since: 2026-03-04
+    release: 10
+    mergedPR: 103
+    openPR: 13
+    closedIssue: 20
+    openIssue: 28
+    commit: 65
+  last360d:
+    since: 2025-09-05
+    release: 38
+    mergedPR: 253
+    openPR: 14
+    closedIssue: 66
+    openIssue: 48
+    commit: 208
