@@ -7,7 +7,7 @@ about:
   head: 4ad40c3
   archived: false
   latestVersion: v2.1.12
-  collectedAt: 2026-09-04T19:26:10Z
+  collectedAt: 2026-09-04T21:11:19Z
 timeline:
   created: 2019-02-05
   lastCommit: 2026-08-28
@@ -17,7 +17,7 @@ popularity:
   watcher: 34
   fork: 300
   release: 221
-  contributor: 177
+  contributor: 178
   pullRequest: 873
   issue: 524
 language:
@@ -88,6 +88,84 @@ total:
   openIssue: 80
   commit: 1233
 ---
+path: /home/runner/.x-repo/github.com/evilmartians/lefthook
+collectedAt: 2026-09-04T21:11:24Z
+loc:
+  Go:
+    code: 13223
+    comments: 973
+    blanks: 1969
+    files: 117
+  Json:
+    code: 1980
+    comments: 0
+    blanks: 0
+    files: 16
+  Raku:
+    code: 874
+    comments: 26
+    blanks: 205
+    files: 21
+  JavaScript:
+    code: 786
+    comments: 17
+    blanks: 23
+    files: 8
+  Python:
+    code: 142
+    comments: 0
+    blanks: 34
+    files: 4
+  Yaml:
+    code: 87
+    comments: 28
+    blanks: 9
+    files: 7
+  Toml:
+    code: 84
+    comments: 14
+    blanks: 11
+    files: 3
+  Makefile:
+    code: 42
+    comments: 0
+    blanks: 10
+    files: 1
+  Ruby:
+    code: 31
+    comments: 1
+    blanks: 7
+    files: 2
+  Css:
+    code: 11
+    comments: 0
+    blanks: 2
+    files: 1
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 3
+  Rakefile:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3509
+    blanks: 1370
+    files: 115
+  Text:
+    code: 0
+    comments: 1606
+    blanks: 249
+    files: 59
+total:
+  code: 17442
+  comments: 6205
+  blanks: 3915
+  files: 358
 ---
 date: "2026-08-24"
 repo:
