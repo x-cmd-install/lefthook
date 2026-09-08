@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5460724,
       "digest": "sha256:9ed1e327400d0f1769ef1abf103bb52fcc52fac41d3736552f95fc28077e9638",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-08-28T10:21:37Z",
       "updated_at": "2026-08-28T10:21:38Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 13369516,
       "digest": "sha256:1332041181028eb5fbb581fa58ba4ebca2d9bd9c5821588d8ecd5aabc5bdbb56",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-28T10:21:32Z",
       "updated_at": "2026-08-28T10:21:32Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Freebsd_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13435042,
       "digest": "sha256:9c130d98d2d57286698200b83998db9c025f350541aa6368315ff43b7a6440ac",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2026-08-28T10:21:35Z",
       "updated_at": "2026-08-28T10:21:36Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Linux_aarch64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5186303,
       "digest": "sha256:d96ac16753f6d3d69b92098621c2a2427522a9c2c3e78cd7c9b4a9790b0b8f17",
-      "download_count": 1430,
+      "download_count": 1457,
       "created_at": "2026-08-28T10:21:36Z",
       "updated_at": "2026-08-28T10:21:36Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Linux_aarch64.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 13435042,
       "digest": "sha256:9c130d98d2d57286698200b83998db9c025f350541aa6368315ff43b7a6440ac",
-      "download_count": 285,
+      "download_count": 293,
       "created_at": "2026-08-28T10:21:33Z",
       "updated_at": "2026-08-28T10:21:34Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Linux_arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 14524578,
       "digest": "sha256:22ff1ad48d1a0f4dca8d6b7e920056c6a9015f9204e5b693858ed9c2db759a16",
-      "download_count": 2105,
+      "download_count": 2131,
       "created_at": "2026-08-28T10:21:30Z",
       "updated_at": "2026-08-28T10:21:31Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Linux_x86_64"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5784525,
       "digest": "sha256:dad908593c859d139b886c14913a44401d95288aa7642d9bdf6f3bd36bd788ff",
-      "download_count": 30564,
+      "download_count": 31198,
       "created_at": "2026-08-28T10:21:34Z",
       "updated_at": "2026-08-28T10:21:35Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Linux_x86_64.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 13728770,
       "digest": "sha256:9917087099678f8ee2be031494a9b53eae49717eea2023abf4fae11c8bb64e54",
-      "download_count": 382,
+      "download_count": 385,
       "created_at": "2026-08-28T10:21:33Z",
       "updated_at": "2026-08-28T10:21:34Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_MacOS_arm64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5376875,
       "digest": "sha256:f23eac328ca50c7b775dc24dc275cdeacb65e16cf8bd1745d18e3c563f704f94",
-      "download_count": 1829,
+      "download_count": 1858,
       "created_at": "2026-08-28T10:21:33Z",
       "updated_at": "2026-08-28T10:21:33Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_MacOS_arm64.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 15034368,
       "digest": "sha256:29a8f42a7f181d7c0942eaa35029c1eb4ec9c4fc1a87320e0e75331127e43b9b",
-      "download_count": 365,
+      "download_count": 367,
       "created_at": "2026-08-28T10:21:30Z",
       "updated_at": "2026-08-28T10:21:31Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Windows_x86_64.exe"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 5959235,
       "digest": "sha256:c642d9ad8818faff1379e1b72321b4baddd0d6f20ffd7303f59386bb6abfd6e9",
-      "download_count": 250,
+      "download_count": 253,
       "created_at": "2026-08-28T10:21:35Z",
       "updated_at": "2026-08-28T10:21:35Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_2.1.12_Windows_x86_64.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 2896,
       "digest": "sha256:2dc0a9841faf5e17e7e1b8c62c1f3caddc7ba11ddea6e161e86ca7323fccd5da",
-      "download_count": 392,
+      "download_count": 396,
       "created_at": "2026-08-28T10:21:38Z",
       "updated_at": "2026-08-28T10:21:38Z",
       "browser_download_url": "https://github.com/evilmartians/lefthook/releases/download/v2.1.12/lefthook_checksums.txt"
