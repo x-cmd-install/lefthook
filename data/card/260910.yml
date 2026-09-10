@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.12"
   latestRelease: "v2.1.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:28:47Z
+  collectedAt: 2026-09-10T22:24:01Z
 timeline:
   created: 2019-02-05
   lastCommit: 2026-09-07
@@ -91,7 +91,7 @@ total:
   commit: 1236
 ---
 path: /home/runner/.x-repo/github.com/evilmartians/lefthook
-collectedAt: 2026-09-10T21:29:14Z
+collectedAt: 2026-09-10T22:24:16Z
 loc:
   Go:
     code: 13223
