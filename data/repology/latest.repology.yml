@@ -1,0 +1,166 @@
+- repo: homebrew
+  srcname: lefthook
+  visiblename: lefthook
+  version: 2.1.12
+  origversion: null
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+- repo: homebrew
+  srcname: lefthook
+  visiblename: lefthook
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast and powerful Git hooks manager for any type of projects
+- repo: alpine_edge
+  subrepo: testing
+  srcname: lefthook
+  binname: lefthook
+  visiblename: lefthook
+  version: 2.1.9
+  origversion: 2.1.9-r1
+  status: outdated
+  summary: Fast and powerful Git hooks manager
+  maintainers:
+    - hello@mek.yt
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: lefthook
+  binname: lefthook-doc
+  visiblename: lefthook-doc
+  version: 2.1.9
+  origversion: 2.1.9-r1
+  status: outdated
+  summary: Fast and powerful Git hooks manager (documentation)
+  maintainers:
+    - hello@mek.yt
+  licenses:
+    - MIT
+- repo: aur
+  srcname: lefthook
+  binname: lefthook
+  visiblename: lefthook
+  version: 2.1.12
+  origversion: 2.1.12-1
+  status: newest
+  summary: Git hooks manager
+  maintainers:
+    - envek@aur
+    - mrexox@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: lefthook-bin
+  binname: lefthook-bin
+  visiblename: lefthook-bin
+  version: 2.1.12
+  origversion: 2.1.12-1
+  status: newest
+  summary: Git hooks manager
+  maintainers:
+    - mrexox@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: devel/lefthook
+  binname: lefthook
+  visiblename: devel/lefthook
+  version: 2.1.12
+  origversion: null
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - devel
+- repo: macports
+  srcname: devel/lefthook
+  binname: lefthook
+  visiblename: lefthook
+  version: 2.1.12
+  origversion: null
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: lefthook
+  visiblename: lefthook
+  version: 1.6.12
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: lefthook
+  visiblename: lefthook
+  version: 1.8.1
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: lefthook
+  visiblename: lefthook
+  version: 1.11.12
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: lefthook
+  visiblename: lefthook
+  version: 1.13.6
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: lefthook
+  visiblename: lefthook
+  version: 2.1.5
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lefthook
+  visiblename: lefthook
+  version: 2.1.12
+  origversion: null
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - dark@nightconcept.net
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: lefthook
+  visiblename: lefthook
+  version: 2.1.12
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
