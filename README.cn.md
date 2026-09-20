@@ -4,7 +4,7 @@
 
 Fast and powerful Git hooks manager for any type of projects.
 
-![lefthook](https://repo.x-cmd.io/lefthook.svg?lang=zh)
+[![x-cmd/install — lefthook Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lefthook.svg?lang=zh)](https://x-cmd.com/install/lefthook)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install lefthook
 
 ## 流行度
 
-- **Star**: 8,825 · **Fork**: 308 · **开放 issue**: 526 · **贡献者**: 182
+- **Star**: 8,832 · **Fork**: 308 · **开放 issue**: 526 · **贡献者**: 182
 
 ## 累计统计
 
-- **发布数**: 222 · **已合并 PR**: 806 · **开放 PR**: 26 · **已关闭 issue**: 451 · **开放 issue**: 75 · **提交数**: 1243
+- **发布数**: 222 · **已合并 PR**: 806 · **开放 PR**: 25 · **已关闭 issue**: 451 · **开放 issue**: 75 · **提交数**: 1243
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 26 | 17 | 3 | 4 | 18 |
-| last60d | 2026-07-20 | 3 | 35 | 21 | 10 | 13 | 26 |
-| 90d | 2026-06-20 | 4 | 45 | 23 | 10 | 17 | 31 |
-| last180d | 2026-03-22 | 9 | 107 | 25 | 23 | 23 | 66 |
-| 360d | 2025-09-23 | 35 | 248 | 26 | 63 | 47 | 193 |
-| last720d | 2024-09-28 | 87 | 438 | 26 | 127 | 66 | 441 |
+| 30d | 2026-08-21 | 3 | 24 | 16 | 3 | 4 | 18 |
+| last60d | 2026-07-22 | 3 | 35 | 20 | 10 | 13 | 26 |
+| 90d | 2026-06-22 | 4 | 43 | 22 | 10 | 16 | 31 |
+| last180d | 2026-03-24 | 9 | 104 | 24 | 23 | 23 | 66 |
+| 360d | 2025-09-25 | 33 | 246 | 25 | 62 | 47 | 193 |
+| last720d | 2024-09-30 | 87 | 433 | 25 | 127 | 66 | 441 |
 
 ## Release 资产
 
@@ -110,4 +110,4 @@ lefthook 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:11:47Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:03:52Z._
