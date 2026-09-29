@@ -14,11 +14,11 @@ x install lefthook
 
 ## Code insight
 
-Total: **17,699** lines of code across **170** files in the top 5 languages.
+Total: **17,627** lines of code across **170** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,657 | 1,026 | 2,025 | 121 |
+| Go | 13,585 | 1,026 | 2,023 | 121 |
 | Json | 1,980 | 0 | 0 | 16 |
 | Raku | 874 | 26 | 205 | 21 |
 | JavaScript | 786 | 17 | 23 | 8 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.14` (2026-09-14)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-28
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 8,860 · **Forks**: 311 · **Open issues**: 526 · **Contributors**: 184
+- **Stars**: 8,866 · **Forks**: 311 · **Open issues**: 526 · **Contributors**: 184
 
 ## Totals (cumulative)
 
-- **Releases**: 222 · **Merged PRs**: 815 · **Open PRs**: 21 · **Closed issues**: 455 · **Open issues**: 71 · **Commits**: 1248
+- **Releases**: 222 · **Merged PRs**: 819 · **Open PRs**: 18 · **Closed issues**: 456 · **Open issues**: 70 · **Commits**: 1249
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 22 | 15 | 2 | 3 | 15 |
-| last60d | 2026-07-30 | 3 | 41 | 17 | 8 | 8 | 25 |
-| 90d | 2026-06-30 | 4 | 49 | 18 | 13 | 12 | 35 |
-| last180d | 2026-04-01 | 9 | 110 | 20 | 27 | 18 | 63 |
-| 360d | 2025-10-03 | 31 | 241 | 21 | 65 | 43 | 181 |
-| last720d | 2024-10-08 | 86 | 442 | 21 | 128 | 59 | 442 |
+| 30d | 2026-08-30 | 1 | 25 | 12 | 2 | 3 | 16 |
+| last60d | 2026-07-31 | 3 | 44 | 14 | 8 | 8 | 26 |
+| 90d | 2026-07-01 | 4 | 53 | 15 | 14 | 11 | 36 |
+| last180d | 2026-04-02 | 9 | 111 | 17 | 26 | 17 | 64 |
+| 360d | 2025-10-04 | 31 | 245 | 18 | 66 | 42 | 182 |
+| last720d | 2024-10-09 | 86 | 446 | 18 | 129 | 58 | 443 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:25:23Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:44:33Z._
