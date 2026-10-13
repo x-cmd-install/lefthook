@@ -14,14 +14,14 @@ x install lefthook
 
 ## Code insight
 
-Total: **18,956** lines of code across **212** files in the top 5 languages.
+Total: **18,978** lines of code across **213** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,445 | 1,075 | 2,373 | 176 |
-| Json | 2,010 | 0 | 1 | 16 |
+| Go | 15,440 | 1,075 | 2,373 | 176 |
+| Json | 2,034 | 0 | 1 | 17 |
 | JavaScript | 794 | 17 | 23 | 8 |
-| Sh | 305 | 12 | 89 | 8 |
+| Sh | 308 | 16 | 90 | 8 |
 | Python | 142 | 0 | 34 | 4 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.1` (2026-10-08)
-- **Last commit**: 2026-10-08
+- **Last commit**: 2026-10-13
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 8,894 · **Forks**: 320 · **Open issues**: 535 · **Contributors**: 190
+- **Stars**: 8,900 · **Forks**: 321 · **Open issues**: 535 · **Contributors**: 190
 
 ## Totals (cumulative)
 
-- **Releases**: 227 · **Merged PRs**: 837 · **Open PRs**: 18 · **Closed issues**: 466 · **Open issues**: 69 · **Commits**: 1272
+- **Releases**: 227 · **Merged PRs**: 839 · **Open PRs**: 22 · **Closed issues**: 467 · **Open issues**: 68 · **Commits**: 1274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 6 | 29 | 10 | 4 | 7 | 29 |
-| last60d | 2026-08-13 | 8 | 57 | 15 | 11 | 9 | 47 |
-| 90d | 2026-07-14 | 8 | 66 | 15 | 21 | 12 | 55 |
-| last180d | 2026-04-15 | 13 | 114 | 17 | 31 | 16 | 78 |
-| 360d | 2025-10-17 | 36 | 261 | 18 | 74 | 40 | 203 |
-| last720d | 2024-10-22 | 87 | 452 | 18 | 135 | 57 | 452 |
+| 30d | 2026-09-13 | 6 | 29 | 14 | 3 | 7 | 31 |
+| last60d | 2026-08-14 | 8 | 58 | 19 | 10 | 9 | 49 |
+| 90d | 2026-07-15 | 8 | 68 | 19 | 21 | 11 | 57 |
+| last180d | 2026-04-16 | 13 | 116 | 21 | 32 | 15 | 80 |
+| 360d | 2025-10-18 | 36 | 262 | 22 | 75 | 39 | 205 |
+| last720d | 2024-10-23 | 86 | 452 | 22 | 136 | 56 | 449 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:18:20Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:54:28Z._
