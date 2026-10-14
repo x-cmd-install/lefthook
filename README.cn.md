@@ -14,14 +14,14 @@ x install lefthook
 
 ## 代码洞察
 
-合计: **18,978** 行代码（覆盖前 5 种语言、共 **213** 个文件）。
+合计: **19,110** 行代码（覆盖前 5 种语言、共 **213** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 15,440 | 1,075 | 2,373 | 176 |
+| Go | 15,548 | 1,077 | 2,383 | 176 |
 | Json | 2,034 | 0 | 1 | 17 |
 | JavaScript | 794 | 17 | 23 | 8 |
-| Sh | 308 | 16 | 90 | 8 |
+| Sh | 332 | 16 | 98 | 8 |
 | Python | 142 | 0 | 34 | 4 |
 
 ## OpenSSF Scorecard 评分
@@ -42,64 +42,64 @@ x install lefthook
 
 ## 发布
 
-- **最新版本**: `v2.2.1` (2026-10-08)
+- **最新版本**: `v2.2.2` (2026-10-13)
 - **最近提交**: 2026-10-13
 - **Release 含资产**: 31 个
 
 ## 流行度
 
-- **Star**: 8,900 · **Fork**: 321 · **开放 issue**: 535 · **贡献者**: 190
+- **Star**: 8,908 · **Fork**: 322 · **开放 issue**: 535 · **贡献者**: 190
 
 ## 累计统计
 
-- **发布数**: 227 · **已合并 PR**: 839 · **开放 PR**: 22 · **已关闭 issue**: 467 · **开放 issue**: 68 · **提交数**: 1274
+- **发布数**: 228 · **已合并 PR**: 841 · **开放 PR**: 23 · **已关闭 issue**: 468 · **开放 issue**: 67 · **提交数**: 1277
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 6 | 29 | 14 | 3 | 7 | 31 |
-| last60d | 2026-08-14 | 8 | 58 | 19 | 10 | 9 | 49 |
-| 90d | 2026-07-15 | 8 | 68 | 19 | 21 | 11 | 57 |
-| last180d | 2026-04-16 | 13 | 116 | 21 | 32 | 15 | 80 |
-| 360d | 2025-10-18 | 36 | 262 | 22 | 75 | 39 | 205 |
-| last720d | 2024-10-23 | 86 | 452 | 22 | 136 | 56 | 449 |
+| 30d | 2026-09-14 | 7 | 26 | 14 | 4 | 6 | 34 |
+| last60d | 2026-08-15 | 9 | 60 | 20 | 11 | 8 | 52 |
+| 90d | 2026-07-16 | 9 | 70 | 20 | 22 | 10 | 60 |
+| last180d | 2026-04-17 | 13 | 117 | 22 | 33 | 14 | 83 |
+| 360d | 2025-10-19 | 37 | 264 | 23 | 76 | 38 | 208 |
+| last720d | 2024-10-24 | 86 | 454 | 23 | 137 | 55 | 449 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lefthook_2.2.1_amd64.apk](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_amd64.apk) | 5.4 MiB | `other` |
-| [lefthook_2.2.1_amd64.deb](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_amd64.deb) | 5.3 MiB | `runtime/deb/amd64` |
-| [lefthook_2.2.1_amd64.rpm](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_amd64.rpm) | 5.5 MiB | `other` |
-| [lefthook_2.2.1_arm64.apk](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_arm64.apk) | 4.9 MiB | `other` |
-| [lefthook_2.2.1_arm64.deb](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_arm64.deb) | 4.8 MiB | `runtime/deb/arm64` |
-| [lefthook_2.2.1_arm64.rpm](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_arm64.rpm) | 4.9 MiB | `other` |
-| [lefthook_2.2.1_Freebsd_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Freebsd_arm64) | 13.1 MiB | `other` |
-| [lefthook_2.2.1_Freebsd_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Freebsd_arm64.gz) | 5.0 MiB | `other` |
-| [lefthook_2.2.1_Freebsd_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Freebsd_x86_64) | 14.1 MiB | `other` |
-| [lefthook_2.2.1_Freebsd_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Freebsd_x86_64.gz) | 5.6 MiB | `other` |
-| [lefthook_2.2.1_Linux_aarch64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Linux_aarch64) | 13.1 MiB | `native/linux/arm64` |
-| [lefthook_2.2.1_Linux_aarch64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Linux_aarch64.gz) | 5.0 MiB | `native/linux/arm64` |
-| [lefthook_2.2.1_Linux_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Linux_arm64) | 13.1 MiB | `native/linux/arm64` |
-| [lefthook_2.2.1_Linux_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Linux_arm64.gz) | 5.0 MiB | `native/linux/arm64` |
-| [lefthook_2.2.1_Linux_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Linux_x86_64) | 14.1 MiB | `native/linux/x64` |
-| [lefthook_2.2.1_Linux_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Linux_x86_64.gz) | 5.6 MiB | `native/linux/x64` |
-| [lefthook_2.2.1_MacOS_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_MacOS_arm64) | 13.4 MiB | `native/darwin/arm64` |
-| [lefthook_2.2.1_MacOS_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_MacOS_arm64.gz) | 5.2 MiB | `native/darwin/arm64` |
-| [lefthook_2.2.1_MacOS_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_MacOS_x86_64) | 14.4 MiB | `native/darwin/x64` |
-| [lefthook_2.2.1_MacOS_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_MacOS_x86_64.gz) | 5.7 MiB | `native/darwin/x64` |
-| [lefthook_2.2.1_Openbsd_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Openbsd_arm64) | 13.1 MiB | `other` |
-| [lefthook_2.2.1_Openbsd_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Openbsd_arm64.gz) | 5.0 MiB | `other` |
-| [lefthook_2.2.1_Openbsd_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Openbsd_x86_64) | 14.1 MiB | `other` |
-| [lefthook_2.2.1_Openbsd_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Openbsd_x86_64.gz) | 5.6 MiB | `other` |
-| [lefthook_2.2.1_Windows_arm64.exe](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Windows_arm64.exe) | 13.3 MiB | `native/win/arm64` |
-| [lefthook_2.2.1_Windows_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Windows_arm64.gz) | 5.1 MiB | `native/win/arm64` |
-| [lefthook_2.2.1_Windows_i386.exe](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Windows_i386.exe) | 13.9 MiB | `native/win/x64` |
-| [lefthook_2.2.1_Windows_i386.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Windows_i386.gz) | 5.6 MiB | `native/win/x64` |
-| [lefthook_2.2.1_Windows_x86_64.exe](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Windows_x86_64.exe) | 14.6 MiB | `native/win/x64` |
-| [lefthook_2.2.1_Windows_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_2.2.1_Windows_x86_64.gz) | 5.8 MiB | `native/win/x64` |
-| [lefthook_checksums.txt](https://github.com/evilmartians/lefthook/releases/download/v2.2.1/lefthook_checksums.txt) | 2.8 KiB | `other` |
+| [lefthook_2.2.2_amd64.apk](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_amd64.apk) | 5.4 MiB | `other` |
+| [lefthook_2.2.2_amd64.deb](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_amd64.deb) | 5.3 MiB | `runtime/deb/amd64` |
+| [lefthook_2.2.2_amd64.rpm](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_amd64.rpm) | 5.4 MiB | `other` |
+| [lefthook_2.2.2_arm64.apk](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_arm64.apk) | 4.9 MiB | `other` |
+| [lefthook_2.2.2_arm64.deb](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_arm64.deb) | 4.8 MiB | `runtime/deb/arm64` |
+| [lefthook_2.2.2_arm64.rpm](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_arm64.rpm) | 4.9 MiB | `other` |
+| [lefthook_2.2.2_Freebsd_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Freebsd_arm64) | 13.1 MiB | `other` |
+| [lefthook_2.2.2_Freebsd_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Freebsd_arm64.gz) | 5.0 MiB | `other` |
+| [lefthook_2.2.2_Freebsd_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Freebsd_x86_64) | 14.1 MiB | `other` |
+| [lefthook_2.2.2_Freebsd_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Freebsd_x86_64.gz) | 5.6 MiB | `other` |
+| [lefthook_2.2.2_Linux_aarch64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Linux_aarch64) | 13.1 MiB | `native/linux/arm64` |
+| [lefthook_2.2.2_Linux_aarch64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Linux_aarch64.gz) | 5.0 MiB | `native/linux/arm64` |
+| [lefthook_2.2.2_Linux_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Linux_arm64) | 13.1 MiB | `native/linux/arm64` |
+| [lefthook_2.2.2_Linux_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Linux_arm64.gz) | 5.0 MiB | `native/linux/arm64` |
+| [lefthook_2.2.2_Linux_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Linux_x86_64) | 14.1 MiB | `native/linux/x64` |
+| [lefthook_2.2.2_Linux_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Linux_x86_64.gz) | 5.6 MiB | `native/linux/x64` |
+| [lefthook_2.2.2_MacOS_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_MacOS_arm64) | 13.4 MiB | `native/darwin/arm64` |
+| [lefthook_2.2.2_MacOS_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_MacOS_arm64.gz) | 5.2 MiB | `native/darwin/arm64` |
+| [lefthook_2.2.2_MacOS_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_MacOS_x86_64) | 14.4 MiB | `native/darwin/x64` |
+| [lefthook_2.2.2_MacOS_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_MacOS_x86_64.gz) | 5.7 MiB | `native/darwin/x64` |
+| [lefthook_2.2.2_Openbsd_arm64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Openbsd_arm64) | 13.1 MiB | `other` |
+| [lefthook_2.2.2_Openbsd_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Openbsd_arm64.gz) | 5.0 MiB | `other` |
+| [lefthook_2.2.2_Openbsd_x86_64](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Openbsd_x86_64) | 14.1 MiB | `other` |
+| [lefthook_2.2.2_Openbsd_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Openbsd_x86_64.gz) | 5.6 MiB | `other` |
+| [lefthook_2.2.2_Windows_arm64.exe](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_arm64.exe) | 13.3 MiB | `native/win/arm64` |
+| [lefthook_2.2.2_Windows_arm64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_arm64.gz) | 5.1 MiB | `native/win/arm64` |
+| [lefthook_2.2.2_Windows_i386.exe](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_i386.exe) | 13.9 MiB | `native/win/x64` |
+| [lefthook_2.2.2_Windows_i386.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_i386.gz) | 5.6 MiB | `native/win/x64` |
+| [lefthook_2.2.2_Windows_x86_64.exe](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_x86_64.exe) | 14.6 MiB | `native/win/x64` |
+| [lefthook_2.2.2_Windows_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_x86_64.gz) | 5.8 MiB | `native/win/x64` |
+| [lefthook_checksums.txt](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_checksums.txt) | 2.8 KiB | `other` |
 
 ## 改进这些数据
 
@@ -110,4 +110,4 @@ lefthook 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:54:29Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:55:03Z._
