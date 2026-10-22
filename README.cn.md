@@ -30,7 +30,7 @@ x install lefthook
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -43,27 +43,27 @@ x install lefthook
 ## 发布
 
 - **最新版本**: `v2.2.2` (2026-10-13)
-- **最近提交**: 2026-10-15
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 31 个
 
 ## 流行度
 
-- **Star**: 8,928 · **Fork**: 323 · **开放 issue**: 537 · **贡献者**: 190
+- **Star**: 8,927 · **Fork**: 325 · **开放 issue**: 538 · **贡献者**: 191
 
 ## 累计统计
 
-- **发布数**: 228 · **已合并 PR**: 846 · **开放 PR**: 21 · **已关闭 issue**: 469 · **开放 issue**: 68 · **提交数**: 1278
+- **发布数**: 228 · **已合并 PR**: 847 · **开放 PR**: 22 · **已关闭 issue**: 469 · **开放 issue**: 69 · **提交数**: 1279
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 6 | 27 | 11 | 5 | 6 | 30 |
-| last60d | 2026-08-22 | 8 | 61 | 17 | 9 | 9 | 48 |
-| 90d | 2026-07-23 | 9 | 75 | 18 | 22 | 11 | 61 |
-| last180d | 2026-04-24 | 13 | 121 | 20 | 33 | 13 | 84 |
-| 360d | 2025-10-26 | 35 | 267 | 21 | 72 | 38 | 205 |
-| last720d | 2024-10-31 | 85 | 454 | 21 | 138 | 56 | 446 |
+| 30d | 2026-09-22 | 6 | 28 | 12 | 5 | 7 | 31 |
+| last60d | 2026-08-23 | 8 | 62 | 18 | 9 | 10 | 49 |
+| 90d | 2026-07-24 | 9 | 76 | 19 | 22 | 12 | 62 |
+| last180d | 2026-04-25 | 13 | 122 | 21 | 33 | 14 | 85 |
+| 360d | 2025-10-27 | 35 | 266 | 22 | 72 | 39 | 206 |
+| last720d | 2024-11-01 | 85 | 455 | 22 | 137 | 56 | 447 |
 
 ## Release 资产
 
@@ -110,4 +110,4 @@ lefthook 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:40:44Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:47:39Z._

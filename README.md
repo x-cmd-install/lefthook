@@ -30,7 +30,7 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 14/30 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 12/30 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.2` (2026-10-13)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-21
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 8,928 · **Forks**: 323 · **Open issues**: 537 · **Contributors**: 190
+- **Stars**: 8,927 · **Forks**: 325 · **Open issues**: 538 · **Contributors**: 191
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 846 · **Open PRs**: 21 · **Closed issues**: 469 · **Open issues**: 68 · **Commits**: 1278
+- **Releases**: 228 · **Merged PRs**: 847 · **Open PRs**: 22 · **Closed issues**: 469 · **Open issues**: 69 · **Commits**: 1279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 6 | 27 | 11 | 5 | 6 | 30 |
-| last60d | 2026-08-22 | 8 | 61 | 17 | 9 | 9 | 48 |
-| 90d | 2026-07-23 | 9 | 75 | 18 | 22 | 11 | 61 |
-| last180d | 2026-04-24 | 13 | 121 | 20 | 33 | 13 | 84 |
-| 360d | 2025-10-26 | 35 | 267 | 21 | 72 | 38 | 205 |
-| last720d | 2024-10-31 | 85 | 454 | 21 | 138 | 56 | 446 |
+| 30d | 2026-09-22 | 6 | 28 | 12 | 5 | 7 | 31 |
+| last60d | 2026-08-23 | 8 | 62 | 18 | 9 | 10 | 49 |
+| 90d | 2026-07-24 | 9 | 76 | 19 | 22 | 12 | 62 |
+| last180d | 2026-04-25 | 13 | 122 | 21 | 33 | 14 | 85 |
+| 360d | 2025-10-27 | 35 | 266 | 22 | 72 | 39 | 206 |
+| last720d | 2024-11-01 | 85 | 455 | 22 | 137 | 56 | 447 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:40:43Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:47:38Z._
