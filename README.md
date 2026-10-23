@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,927 · **Forks**: 325 · **Open issues**: 538 · **Contributors**: 191
+- **Stars**: 8,935 · **Forks**: 325 · **Open issues**: 538 · **Contributors**: 191
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 6 | 28 | 12 | 5 | 7 | 31 |
-| last60d | 2026-08-23 | 8 | 62 | 18 | 9 | 10 | 49 |
-| 90d | 2026-07-24 | 9 | 76 | 19 | 22 | 12 | 62 |
-| last180d | 2026-04-25 | 13 | 122 | 21 | 33 | 14 | 85 |
-| 360d | 2025-10-27 | 35 | 266 | 22 | 72 | 39 | 206 |
-| last720d | 2024-11-01 | 85 | 455 | 22 | 137 | 56 | 447 |
+| 30d | 2026-09-23 | 6 | 28 | 12 | 5 | 7 | 31 |
+| last60d | 2026-08-24 | 8 | 56 | 18 | 9 | 10 | 49 |
+| 90d | 2026-07-25 | 9 | 76 | 19 | 22 | 11 | 62 |
+| last180d | 2026-04-26 | 13 | 122 | 21 | 33 | 14 | 85 |
+| 360d | 2025-10-28 | 35 | 266 | 22 | 72 | 39 | 206 |
+| last720d | 2024-11-02 | 85 | 455 | 22 | 137 | 56 | 447 |
 
 ## Release assets
 
@@ -101,6 +101,17 @@ Lowest-scoring checks:
 | [lefthook_2.2.2_Windows_x86_64.gz](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_2.2.2_Windows_x86_64.gz) | 5.8 MiB | `native/win/x64` |
 | [lefthook_checksums.txt](https://github.com/evilmartians/lefthook/releases/download/v2.2.2/lefthook_checksums.txt) | 2.8 KiB | `other` |
 
+## Distribution status
+
+Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **7** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.2.2` | ✅ latest |
+| Nix unstable | `2.1.15` | ⚠️ outdated |
+| Alpine edge | `2.1.9` | ⚠️ outdated |
+| openSUSE Tumbleweed | `2.2.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lefthook` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:47:38Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:44:29Z._
