@@ -186,9 +186,9 @@
 - repo: slackbuilds
   srcname: development/lefthook
   visiblename: development/lefthook
-  version: 2.2.1
+  version: 2.2.2
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - boxjake.romero@protonmail.com
   categories:
