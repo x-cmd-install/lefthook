@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,964 · **Forks**: 330 · **Open issues**: 546 · **Contributors**: 191
+- **Stars**: 8,969 · **Forks**: 331 · **Open issues**: 546 · **Contributors**: 191
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 847 · **Open PRs**: 29 · **Closed issues**: 470 · **Open issues**: 76 · **Commits**: 1279
+- **Releases**: 228 · **Merged PRs**: 847 · **Open PRs**: 30 · **Closed issues**: 470 · **Open issues**: 76 · **Commits**: 1279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 5 | 22 | 19 | 5 | 13 | 23 |
-| last60d | 2026-08-31 | 7 | 46 | 22 | 9 | 15 | 46 |
-| 90d | 2026-08-01 | 9 | 72 | 26 | 17 | 18 | 62 |
-| last180d | 2026-05-03 | 13 | 119 | 28 | 32 | 21 | 85 |
-| 360d | 2025-11-04 | 34 | 264 | 28 | 73 | 45 | 206 |
-| last720d | 2024-11-09 | 85 | 451 | 29 | 138 | 63 | 447 |
+| 30d | 2026-10-01 | 5 | 20 | 20 | 5 | 13 | 23 |
+| last60d | 2026-09-01 | 7 | 45 | 22 | 9 | 15 | 46 |
+| 90d | 2026-08-02 | 9 | 72 | 27 | 17 | 18 | 62 |
+| last180d | 2026-05-04 | 13 | 117 | 29 | 32 | 21 | 85 |
+| 360d | 2025-11-05 | 34 | 264 | 29 | 73 | 44 | 206 |
+| last720d | 2024-11-10 | 85 | 450 | 30 | 138 | 63 | 447 |
 
 ## Release assets
 
@@ -103,7 +103,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **7** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -121,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:59:20Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:47:10Z._
