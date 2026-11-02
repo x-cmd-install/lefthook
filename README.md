@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,968 · **Forks**: 331 · **Open issues**: 546 · **Contributors**: 191
+- **Stars**: 8,971 · **Forks**: 332 · **Open issues**: 546 · **Contributors**: 191
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 847 · **Open PRs**: 30 · **Closed issues**: 470 · **Open issues**: 76 · **Commits**: 1279
+- **Releases**: 228 · **Merged PRs**: 847 · **Open PRs**: 31 · **Closed issues**: 470 · **Open issues**: 76 · **Commits**: 1279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 4 | 20 | 20 | 5 | 13 | 7 |
-| last60d | 2026-09-02 | 7 | 45 | 22 | 9 | 15 | 43 |
-| 90d | 2026-08-03 | 9 | 71 | 27 | 16 | 18 | 56 |
-| last180d | 2026-05-05 | 13 | 117 | 29 | 32 | 21 | 85 |
-| 360d | 2025-11-06 | 34 | 264 | 29 | 73 | 44 | 203 |
-| last720d | 2024-11-11 | 85 | 449 | 30 | 137 | 63 | 447 |
+| 30d | 2026-10-03 | 4 | 17 | 20 | 5 | 13 | 7 |
+| last60d | 2026-09-03 | 7 | 45 | 23 | 9 | 15 | 43 |
+| 90d | 2026-08-04 | 9 | 71 | 28 | 16 | 18 | 56 |
+| last180d | 2026-05-06 | 13 | 117 | 30 | 32 | 21 | 85 |
+| 360d | 2025-11-07 | 34 | 262 | 30 | 73 | 44 | 203 |
+| last720d | 2024-11-12 | 85 | 449 | 31 | 136 | 63 | 447 |
 
 ## Release assets
 
@@ -103,12 +103,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **8** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **9** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.2.2` | ✅ latest |
-| Nix unstable | `2.1.15` | ⚠️ outdated |
+| Nix unstable | `2.2.2` | ✅ latest |
 | Alpine edge | `2.1.9` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.2.2` | ✅ latest |
 
@@ -121,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:04:11Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:18:21Z._
