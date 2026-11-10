@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,013 · **Forks**: 335 · **Open issues**: 546 · **Contributors**: 192
+- **Stars**: 9,016 · **Forks**: 335 · **Open issues**: 546 · **Contributors**: 192
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 10 | 21 | 2 | 9 | 8 |
-| last60d | 2026-09-09 | 7 | 40 | 30 | 7 | 15 | 44 |
-| 90d | 2026-08-10 | 9 | 68 | 35 | 16 | 18 | 57 |
-| last180d | 2026-05-12 | 13 | 115 | 37 | 32 | 21 | 86 |
-| 360d | 2025-11-13 | 33 | 260 | 37 | 72 | 43 | 204 |
-| last720d | 2024-11-18 | 85 | 447 | 38 | 136 | 62 | 448 |
+| 30d | 2026-10-11 | 1 | 10 | 21 | 2 | 9 | 2 |
+| last60d | 2026-09-11 | 7 | 40 | 30 | 7 | 15 | 37 |
+| 90d | 2026-08-12 | 9 | 68 | 35 | 14 | 17 | 57 |
+| last180d | 2026-05-14 | 13 | 115 | 37 | 31 | 21 | 82 |
+| 360d | 2025-11-15 | 32 | 260 | 37 | 72 | 43 | 199 |
+| last720d | 2024-11-20 | 83 | 447 | 38 | 136 | 62 | 441 |
 
 ## Release assets
 
@@ -103,13 +103,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **9** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **11** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `2.2.2` | ✅ latest |
 | Nix unstable | `2.2.2` | ✅ latest |
-| Alpine edge | `2.1.9` | ⚠️ outdated |
+| Alpine edge | `2.2.2` | ✅ latest |
 | openSUSE Tumbleweed | `2.2.2` | ✅ latest |
 
 ## Improve this data
@@ -121,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:01:21Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:41:31Z._
