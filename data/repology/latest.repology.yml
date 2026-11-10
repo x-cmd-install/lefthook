@@ -1,33 +1,11 @@
-- repo: nix_unstable
-  srcname: lefthook
-  visiblename: lefthook
-  version: 2.2.2
-  origversion: null
-  status: newest
-  summary: Fast and powerful Git hooks manager for any type of projects
-  maintainers:
-    - dark@nightconcept.net
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: lefthook
-  visiblename: lefthook
-  version: 1.13.6
-  origversion: null
-  status: outdated
-  summary: Fast and powerful Git hooks manager for any type of projects
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: lefthook
   binname: lefthook
   visiblename: lefthook
-  version: 2.1.9
-  origversion: 2.1.9-r2
-  status: outdated
+  version: 2.2.2
+  origversion: 2.2.2-r0
+  status: newest
   summary: Fast and powerful Git hooks manager
   maintainers:
     - hello@mek.yt
@@ -38,9 +16,9 @@
   srcname: lefthook
   binname: lefthook-doc
   visiblename: lefthook-doc
-  version: 2.1.9
-  origversion: 2.1.9-r2
-  status: outdated
+  version: 2.2.2
+  origversion: 2.2.2-r0
+  status: newest
   summary: Fast and powerful Git hooks manager (documentation)
   maintainers:
     - hello@mek.yt
@@ -144,6 +122,17 @@
     - fallback-mnt-nix@repology
   licenses:
     - MIT
+- repo: nix_stable_25_11
+  srcname: lefthook
+  visiblename: lefthook
+  version: 1.13.6
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
 - repo: nix_stable_26_05
   srcname: lefthook
   visiblename: lefthook
@@ -153,6 +142,17 @@
   summary: Fast and powerful Git hooks manager for any type of projects
   maintainers:
     - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lefthook
+  visiblename: lefthook
+  version: 2.2.2
+  origversion: null
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - dark@nightconcept.net
   licenses:
     - MIT
 - repo: opensuse_tumbleweed
