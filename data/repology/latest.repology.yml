@@ -54,7 +54,7 @@
   binname: lefthook
   visiblename: devel/lefthook
   version: 2.2.2
-  origversion: 2.2.2_1
+  origversion: 2.2.2_2
   status: newest
   summary: Fast and powerful Git hooks manager for any type of projects
   maintainers:
