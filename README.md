@@ -14,13 +14,13 @@ x install lefthook
 
 ## Code insight
 
-Total: **19,129** lines of code across **213** files in the top 5 languages.
+Total: **19,177** lines of code across **213** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 15,567 | 1,077 | 2,383 | 176 |
+| Go | 15,611 | 1,079 | 2,390 | 176 |
 | Json | 2,034 | 0 | 1 | 17 |
-| JavaScript | 794 | 17 | 23 | 8 |
+| JavaScript | 798 | 17 | 23 | 8 |
 | Sh | 332 | 16 | 98 | 8 |
 | Python | 142 | 0 | 34 | 4 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.2.2` (2026-10-13)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-12
 - **Assets in release**: 31
 
 ## Popularity
 
-- **Stars**: 9,021 · **Forks**: 336 · **Open issues**: 546 · **Contributors**: 192
+- **Stars**: 9,026 · **Forks**: 336 · **Open issues**: 546 · **Contributors**: 195
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 848 · **Open PRs**: 39 · **Closed issues**: 470 · **Open issues**: 76 · **Commits**: 1280
+- **Releases**: 228 · **Merged PRs**: 857 · **Open PRs**: 30 · **Closed issues**: 473 · **Open issues**: 73 · **Commits**: 1285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 3 | 20 | 2 | 9 | 2 |
-| last60d | 2026-09-13 | 7 | 38 | 31 | 6 | 15 | 37 |
-| 90d | 2026-08-14 | 9 | 67 | 36 | 13 | 17 | 57 |
-| last180d | 2026-05-16 | 13 | 115 | 37 | 31 | 21 | 82 |
-| 360d | 2025-11-17 | 32 | 259 | 38 | 72 | 43 | 199 |
-| last720d | 2024-11-22 | 83 | 447 | 39 | 136 | 61 | 441 |
+| 30d | 2026-10-14 | 0 | 11 | 12 | 4 | 7 | 7 |
+| last60d | 2026-09-14 | 7 | 42 | 21 | 9 | 12 | 42 |
+| 90d | 2026-08-15 | 9 | 76 | 27 | 16 | 14 | 62 |
+| last180d | 2026-05-17 | 13 | 124 | 28 | 34 | 18 | 87 |
+| 360d | 2025-11-18 | 32 | 268 | 29 | 75 | 40 | 204 |
+| last720d | 2024-11-23 | 83 | 456 | 30 | 139 | 58 | 446 |
 
 ## Release assets
 
@@ -103,7 +103,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/lefthook). **11** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **24** distros on [repology.org](https://repology.org/project/lefthook). **18** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -121,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:41:39Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:05:01Z._
