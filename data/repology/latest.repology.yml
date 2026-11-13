@@ -1,3 +1,14 @@
+- repo: nix_stable_24_05
+  srcname: lefthook
+  visiblename: lefthook
+  version: 1.6.12
+  origversion: null
+  status: outdated
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - torres.anderson.85@protonmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: lefthook
@@ -61,20 +72,6 @@
     - yuri@freebsd.org
   categories:
     - devel
-- repo: homebrew
-  srcname: lefthook
-  visiblename: lefthook
-  version: 2.2.2
-  origversion: null
-  status: newest
-  summary: Fast and powerful Git hooks manager for any type of projects
-- repo: homebrew
-  srcname: lefthook
-  visiblename: lefthook
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast and powerful Git hooks manager for any type of projects
 - repo: macports
   srcname: devel/lefthook
   binname: lefthook
@@ -89,17 +86,6 @@
     - MIT
   categories:
     - devel
-- repo: nix_stable_24_05
-  srcname: lefthook
-  visiblename: lefthook
-  version: 1.6.12
-  origversion: null
-  status: outdated
-  summary: Fast and powerful Git hooks manager for any type of projects
-  maintainers:
-    - torres.anderson.85@protonmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_24_11
   srcname: lefthook
   visiblename: lefthook
@@ -193,3 +179,115 @@
     - boxjake.romero@protonmail.com
   categories:
     - development
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook
+  visiblename: lefthook
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook
+  visiblename: lefthook
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook-bash-completion
+  visiblename: lefthook-bash-completion
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Bash completion for lefthook
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook-debuginfo
+  visiblename: lefthook-debuginfo
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Debug information for package lefthook
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook-debuginfo
+  visiblename: lefthook-debuginfo
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Debug information for package lefthook
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook-fish-completion
+  visiblename: lefthook-fish-completion
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Fish completion for lefthook
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: lefthook
+  binname: lefthook-zsh-completion
+  visiblename: lefthook-zsh-completion
+  version: 2.2.2
+  origversion: 2.2.2-1.fcrawhide
+  status: newest
+  summary: Zsh completion for lefthook
+  maintainers:
+    - cypress@fyralabs.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: homebrew
+  srcname: lefthook
+  visiblename: lefthook
+  version: 2.2.2
+  origversion: null
+  status: newest
+  summary: Fast and powerful Git hooks manager for any type of projects
+- repo: homebrew
+  srcname: lefthook
+  visiblename: lefthook
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast and powerful Git hooks manager for any type of projects
