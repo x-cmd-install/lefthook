@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,040 · **Forks**: 337 · **Open issues**: 549 · **Contributors**: 195
+- **Stars**: 9,048 · **Forks**: 337 · **Open issues**: 549 · **Contributors**: 195
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 12 | 17 | 3 | 10 | 7 |
-| last60d | 2026-09-18 | 6 | 41 | 26 | 9 | 14 | 43 |
-| 90d | 2026-08-19 | 9 | 75 | 32 | 13 | 17 | 57 |
-| last180d | 2026-05-21 | 11 | 117 | 34 | 34 | 21 | 82 |
-| 360d | 2025-11-22 | 32 | 269 | 35 | 73 | 43 | 205 |
-| last720d | 2024-11-27 | 83 | 455 | 36 | 139 | 61 | 447 |
+| 30d | 2026-10-20 | 0 | 11 | 17 | 3 | 9 | 7 |
+| last60d | 2026-09-20 | 6 | 41 | 26 | 9 | 14 | 43 |
+| 90d | 2026-08-21 | 9 | 73 | 32 | 13 | 17 | 57 |
+| last180d | 2026-05-23 | 11 | 117 | 34 | 34 | 21 | 82 |
+| 360d | 2025-11-24 | 32 | 268 | 35 | 73 | 43 | 205 |
+| last720d | 2024-11-29 | 83 | 455 | 36 | 139 | 61 | 446 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T11:09:23Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:13:25Z._
