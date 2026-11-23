@@ -26,13 +26,13 @@ Total: **19,183** lines of code across **213** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **6.3 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,050 · **Forks**: 335 · **Open issues**: 551 · **Contributors**: 194
+- **Stars**: 9,052 · **Forks**: 335 · **Open issues**: 551 · **Contributors**: 194
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 855 · **Open PRs**: 35 · **Closed issues**: 473 · **Open issues**: 78 · **Commits**: 1286
+- **Releases**: 228 · **Merged PRs**: 855 · **Open PRs**: 36 · **Closed issues**: 473 · **Open issues**: 78 · **Commits**: 1286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 9 | 16 | 2 | 10 | 7 |
-| last60d | 2026-09-23 | 6 | 39 | 25 | 9 | 16 | 34 |
-| 90d | 2026-08-24 | 8 | 64 | 31 | 13 | 19 | 50 |
-| last180d | 2026-05-26 | 11 | 109 | 33 | 34 | 23 | 76 |
-| 360d | 2025-11-27 | 32 | 265 | 34 | 73 | 45 | 194 |
-| last720d | 2024-12-02 | 83 | 451 | 35 | 139 | 63 | 446 |
+| 30d | 2026-10-24 | 0 | 9 | 17 | 1 | 6 | 7 |
+| last60d | 2026-09-24 | 6 | 39 | 26 | 9 | 16 | 34 |
+| 90d | 2026-08-25 | 8 | 63 | 32 | 12 | 19 | 50 |
+| last180d | 2026-05-27 | 11 | 109 | 34 | 34 | 23 | 76 |
+| 360d | 2025-11-28 | 32 | 265 | 35 | 71 | 44 | 194 |
+| last720d | 2024-12-03 | 82 | 449 | 36 | 139 | 63 | 443 |
 
 ## Release assets
 
@@ -121,4 +121,4 @@ Install metadata for lefthook lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T08:31:43Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T11:20:29Z._

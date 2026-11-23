@@ -26,13 +26,13 @@ x install lefthook
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **6.3 / 10**
 
 评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install lefthook
 
 ## 流行度
 
-- **Star**: 9,050 · **Fork**: 335 · **开放 issue**: 551 · **贡献者**: 194
+- **Star**: 9,052 · **Fork**: 335 · **开放 issue**: 551 · **贡献者**: 194
 
 ## 累计统计
 
-- **发布数**: 228 · **已合并 PR**: 855 · **开放 PR**: 35 · **已关闭 issue**: 473 · **开放 issue**: 78 · **提交数**: 1286
+- **发布数**: 228 · **已合并 PR**: 855 · **开放 PR**: 36 · **已关闭 issue**: 473 · **开放 issue**: 78 · **提交数**: 1286
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 9 | 16 | 2 | 10 | 7 |
-| last60d | 2026-09-23 | 6 | 39 | 25 | 9 | 16 | 34 |
-| 90d | 2026-08-24 | 8 | 64 | 31 | 13 | 19 | 50 |
-| last180d | 2026-05-26 | 11 | 109 | 33 | 34 | 23 | 76 |
-| 360d | 2025-11-27 | 32 | 265 | 34 | 73 | 45 | 194 |
-| last720d | 2024-12-02 | 83 | 451 | 35 | 139 | 63 | 446 |
+| 30d | 2026-10-24 | 0 | 9 | 17 | 1 | 6 | 7 |
+| last60d | 2026-09-24 | 6 | 39 | 26 | 9 | 16 | 34 |
+| 90d | 2026-08-25 | 8 | 63 | 32 | 12 | 19 | 50 |
+| last180d | 2026-05-27 | 11 | 109 | 34 | 34 | 23 | 76 |
+| 360d | 2025-11-28 | 32 | 265 | 35 | 71 | 44 | 194 |
+| last720d | 2024-12-03 | 82 | 449 | 36 | 139 | 63 | 443 |
 
 ## Release 资产
 
@@ -121,4 +121,4 @@ lefthook 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T08:31:44Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T11:20:30Z._
